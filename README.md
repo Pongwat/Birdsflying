@@ -1,2 +1,4 @@
 Birds are flying
-<img src="https://github.com/Pongwat/Birdsflying/blob/main/Birdsflying.png?raw=true" width="400">
+
+Android application where birds fly across the screen.
+<img src="https://github.com/Pongwat/Birdsflying/blob/main/Birdsflying.png?raw=true" width="300">
